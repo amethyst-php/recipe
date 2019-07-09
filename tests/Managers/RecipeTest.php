@@ -1,10 +1,10 @@
 <?php
 
-namespace Railken\Amethyst\Tests\Managers;
+namespace Amethyst\Tests\Managers;
 
-use Railken\Amethyst\Fakers\RecipeFaker;
-use Railken\Amethyst\Managers\RecipeManager;
-use Railken\Amethyst\Tests\BaseTest;
+use Amethyst\Fakers\RecipeFaker;
+use Amethyst\Managers\RecipeManager;
+use Amethyst\Tests\BaseTest;
 use Railken\Lem\Support\Testing\TestableBaseTrait;
 
 class RecipeTest extends BaseTest
