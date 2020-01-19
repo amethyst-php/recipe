@@ -1,6 +1,6 @@
 # amethyst-recipe
 
-[![Build Status](https://travis-ci.org/amethyst-php/recipe.svg?branch=master)](https://travis-ci.org/amethyst-php/recipe)
+[![Action Status](https://github.com/amethyst-php/recipe/workflows/test/badge.svg)](https://github.com/amethyst-php/recipe/actions)
 
 [Amethyst](https://github.com/amethyst-php/amethyst) package.
 
